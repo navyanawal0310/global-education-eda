@@ -1,4 +1,8 @@
-# Global Education Access vs Outcomes -> Exploratory Data Analysis
+# Global Education Access vs Outcomes 
+### Exploratory Data Analysis
+
+---
+
 ## Executive Summary
 
 This project analyzes cross-country education and socioeconomic indicators to evaluate whether government education spending strongly correlates with measurable learning outcomes.
@@ -8,9 +12,9 @@ These findings suggest that structural enablers may play a more prominent role i
 ## Project Overview
 
 This project explores the structural relationship between national education investment and measurable education outcomes using publicly available World Bank data.
-The core research question:
-    Is higher government education spending associated with stronger literacy and enrollment outcomes?
-    or do structural factors like digital access show stronger relationships?
+The **core research question**:
+>Is higher government education spending associated with stronger literacy and enrollment outcomes?
+or do structural factors like digital access show stronger relationships?
 ---
 ## Data Sources
 Data was fetched programmatically from the World Bank API using Python.
